@@ -1,0 +1,32 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Cantante</th>
+            <th scope="col">Data</th>
+            <th scope="col">Genere</th>
+            <th scope="col">Città</th>
+            <th scope="col">Struttura</th>
+            <th scope="col">nPosti</th>
+            <th scope="col">Dettagli</th>
+            <th scope="col">Prenoti</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (concert of concertService.concert; track $index) {
+        <tr>
+            <th scope="row">{{concert.id}}</th>
+            <td>{{concert.cantante}}</td>
+            <td>{{concert.data}}</td>
+            <td>{{concert.genere}}</td>
+            <td>{{concert.sede.citta}}</td>
+            <td>{{concert.sede.struttura}}</td>
+            <td>{{concert.sede.nPosti}}</td>
+            <td><button type="button" class="btn btn-info" (click)="mostraDettagli(concert)">Dettagli</button></td>
+            <td><button type="button" class="btn btn-success" (click)="prenota(concert)">Prenota</button></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<app-details-component [concerto]="selectedConcert"></app-details-component>

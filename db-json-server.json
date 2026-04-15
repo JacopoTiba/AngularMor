@@ -1,0 +1,369 @@
+{
+  "concerti": [
+    {
+      "cantante": "pippo",
+      "data": "11/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Milano",
+        "struttura": "San Siro",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 1",
+      "postiPrenotati": 2,
+      "id": "e065"
+    },
+    {
+      "cantante": "pluto",
+      "data": "12/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Torino",
+        "struttura": "Allianz Stadium",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 2",
+      "postiPrenotati": 0,
+      "id": "4600"
+    },
+    {
+      "cantante": "minnie",
+      "data": "13/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Verona",
+        "struttura": "Arena",
+        "nPosti": 25000
+      },
+      "dettagli": "dettagli concerto 3",
+      "postiPrenotati": 0,
+      "id": "6063"
+    },
+    {
+      "cantante": "jenny",
+      "data": "14/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Bologna",
+        "struttura": "Stadio Dall'Ara",
+        "nPosti": 35000
+      },
+      "dettagli": "dettagli concerto 4",
+      "postiPrenotati": 0,
+      "id": "6b8d"
+    },
+    {
+      "cantante": "sonny",
+      "data": "15/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Padova",
+        "struttura": "Stadio Euganeo",
+        "nPosti": 30000
+      },
+      "dettagli": "dettagli concerto 5",
+      "postiPrenotati": 0,
+      "id": "4e7a"
+    },
+    {
+      "cantante": "fanny",
+      "data": "16/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Firenze",
+        "struttura": "Stadio Artemio Franchi",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 6",
+      "postiPrenotati": 0,
+      "id": "cbd0"
+    },
+    {
+      "cantante": "jmmy",
+      "data": "17/6/2018",
+      "genere": "Rock",
+      "sede": {
+        "citta": "Roma",
+        "struttura": "Stadio Olimpico",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 7",
+      "postiPrenotati": 0,
+      "id": "b607"
+    },
+    {
+      "cantante": "sandy",
+      "data": "18/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Milano",
+        "struttura": "San Siro",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 8",
+      "postiPrenotati": 0,
+      "id": "9b55"
+    },
+    {
+      "cantante": "sally",
+      "data": "19/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Torino",
+        "struttura": "Allianz Stadium",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 9",
+      "postiPrenotati": 0,
+      "id": "7b89"
+    },
+    {
+      "cantante": "ronny",
+      "data": "20/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Verona",
+        "struttura": "Arena",
+        "nPosti": 25000
+      },
+      "dettagli": "dettagli concerto 10",
+      "postiPrenotati": 0,
+      "id": "f4d8"
+    },
+    {
+      "cantante": "daisy",
+      "data": "21/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Bologna",
+        "struttura": "Stadio Dall'Ara",
+        "nPosti": 35000
+      },
+      "dettagli": "dettagli concerto 11",
+      "postiPrenotati": 0,
+      "id": "4a23"
+    },
+    {
+      "cantante": "emma",
+      "data": "22/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Padova",
+        "struttura": "Stadio Euganeo",
+        "nPosti": 30000
+      },
+      "dettagli": "dettagli concerto 12",
+      "postiPrenotati": 300,
+      "id": "96b3"
+    },
+    {
+      "cantante": "elly",
+      "data": "23/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Firenze",
+        "struttura": "Stadio Artemio Franchi",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 13",
+      "postiPrenotati": 0,
+      "id": "97e0"
+    },
+    {
+      "cantante": "andy",
+      "data": "24/6/2018",
+      "genere": "Jazz",
+      "sede": {
+        "citta": "Roma",
+        "struttura": "Stadio Olimpico",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 14",
+      "postiPrenotati": 0,
+      "id": "6064"
+    },
+    {
+      "cantante": "pippo",
+      "data": "11/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Milano",
+        "struttura": "San Siro",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 15",
+      "postiPrenotati": 0,
+      "id": "44c7"
+    },
+    {
+      "cantante": "pluto",
+      "data": "12/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Torino",
+        "struttura": "Allianz Stadium",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 16",
+      "postiPrenotati": 0,
+      "id": "fb10"
+    },
+    {
+      "cantante": "minnie",
+      "data": "13/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Verona",
+        "struttura": "Arena",
+        "nPosti": 25000
+      },
+      "dettagli": "dettagli concerto 17",
+      "postiPrenotati": 0,
+      "id": "4311"
+    },
+    {
+      "cantante": "jenny",
+      "data": "14/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Bologna",
+        "struttura": "Stadio Dall'Ara",
+        "nPosti": 35000
+      },
+      "dettagli": "dettagli concerto 18",
+      "postiPrenotati": 0,
+      "id": "915e"
+    },
+    {
+      "cantante": "sonny",
+      "data": "15/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Padova",
+        "struttura": "Stadio Euganeo",
+        "nPosti": 30000
+      },
+      "dettagli": "dettagli concerto 19",
+      "postiPrenotati": 0,
+      "id": "5aed"
+    },
+    {
+      "cantante": "fanny",
+      "data": "16/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Firenze",
+        "struttura": "Stadio Artemio Franchi",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 20",
+      "postiPrenotati": 0,
+      "id": "957f"
+    },
+    {
+      "cantante": "jmmy",
+      "data": "17/7/2018",
+      "genere": "Pop",
+      "sede": {
+        "citta": "Roma",
+        "struttura": "Stadio Olimpico",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 21",
+      "postiPrenotati": 0,
+      "id": "4c0f"
+    },
+    {
+      "cantante": "sandy",
+      "data": "18/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Milano",
+        "struttura": "San Siro",
+        "nPosti": 50000
+      },
+      "dettagli": "dettagli concerto 22",
+      "postiPrenotati": 0,
+      "id": "f09b"
+    },
+    {
+      "cantante": "sally",
+      "data": "19/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Torino",
+        "struttura": "Allianz Stadium",
+        "nPosti": 40000
+      },
+      "dettagli": "dettagli concerto 23",
+      "postiPrenotati": 0,
+      "id": "9cc7"
+    },
+    {
+      "cantante": "ronny",
+      "data": "20/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Verona",
+        "struttura": "Arena",
+        "nPosti": 25000
+      },
+      "dettagli": "dettagli concerto 24",
+      "postiPrenotati": 0,
+      "id": "7a30"
+    },
+    {
+      "cantante": "daisy",
+      "data": "21/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Bologna",
+        "struttura": "Stadio Dall'Ara",
+        "nPosti": 35000
+      },
+      "dettagli": "dettagli concerto 25",
+      "postiPrenotati": 0,
+      "id": "d8cb"
+    },
+    {
+      "cantante": "emma",
+      "data": "22/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Verona",
+        "struttura": "Arena",
+        "nPosti": 25000
+      },
+      "dettagli": "dettagli concerto 26",
+      "postiPrenotati": 0,
+      "id": "8ce1"
+    },
+    {
+      "cantante": "elly",
+      "data": "23/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Bologna",
+        "struttura": "Stadio Dall'Ara",
+        "nPosti": 35000
+      },
+      "dettagli": "dettagli concerto 27",
+      "postiPrenotati": 0,
+      "id": "1a57"
+    },
+    {
+      "cantante": "andy",
+      "data": "24/7/2018",
+      "genere": "Blues",
+      "sede": {
+        "citta": "Padova",
+        "struttura": "Stadio Euganeo",
+        "nPosti": 30000
+      },
+      "dettagli": "dettagli concerto 28",
+      "postiPrenotati": 0,
+      "id": "d75b"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

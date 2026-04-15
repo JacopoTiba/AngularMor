@@ -1,0 +1,13 @@
+@if (concerto) {
+<div class="card mt-3">
+  <div class="card-header">
+    Dettagli Concerto
+  </div>
+
+  <div class="card-body">
+    <p><b>Cantante:</b> {{concerto.cantante}}</p>
+    <p><b>Dettagli:</b> {{concerto.dettagli}}</p>
+    <p><b>Posti disponibili:</b> {{concerto.sede.nPosti - concerto.postiPrenotati}}</p>
+  </div>
+</div>
+}
